@@ -1,0 +1,70 @@
+body {
+    margin: 0px;   
+}
+
+.main-menu {
+    height: 135px;
+    color: white;
+    background-color: #27292f;
+}
+
+.container {
+    padding-left:20px;
+    padding-right:20px;
+    height:100%;
+}
+
+/* Brand */
+
+.brand h1 {
+    margin:0px;
+    font-variant: small-caps;
+    font-size: 48px;
+    line-height: 1;
+    padding-top: 30px;
+}
+
+a.brand, a.brand:active, a.brand:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.brand small {
+    font-size: 18px;
+}
+.pull-left {
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+
+ul.nav-menu {
+    padding-left:0px;
+}
+
+ul.nav-menu li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 10px;
+}
+
+.nav-menu a, .nav-menu a:active, .nav-menu  a:visited {
+    color: white;
+    text-decoration: none;
+}
+.service img{
+    border:1px solid #ccc;
+}
+.service-block{
+    display: inline-block;
+    width: 370px;
+}
+.service-image{
+    width: 100px;
+    display: inline-block;
+}
+.service-para{
+    display: inline-block;
+    width: 270px;
+}
